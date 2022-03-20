@@ -1,0 +1,29 @@
+{
+  "name": "@rodrigogs/spiderman",
+  "version": "0.0.0",
+  "description": "Yet to describe",
+  "type": "module",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrigogs/spiderman.git"
+  },
+  "keywords": [
+    "web",
+    "crawler",
+    "webcrawler",
+    "spider",
+    "scrapper",
+    "webscrapper",
+    "framework"
+  ],
+  "author": "Rodrigo Gomes da Silva <rodrigo.smscom@gmail.com>",
+  "license": "bsd-3-clause",
+  "bugs": {
+    "url": "https://github.com/rodrigogs/spiderman/issues"
+  },
+  "homepage": "https://github.com/rodrigogs/spiderman#readme"
+}
